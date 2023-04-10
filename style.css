@@ -119,6 +119,7 @@ body {
   border: 1px solid transparent;
   color: #fff;
   background-color: var(--extra);
+  cursor: pointer;
 }
 .menu .items {
   position: absolute;
@@ -211,4 +212,5 @@ footer a {
   background-color: var(--turquoise);
   border-radius: 3px;
   color: #2a4544;
+  cursor: pointer;
 }
